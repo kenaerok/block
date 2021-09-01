@@ -2,3 +2,4 @@
 ||coingecko.com^
 ||binance.com^
 ||indodax.com^
+||facebook.com^
