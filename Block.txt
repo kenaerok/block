@@ -1,1 +1,4 @@
-facebook.com
+||coinmarketcap.com^
+||coingecko.com^
+||binance.com^
+||indodax.com^
